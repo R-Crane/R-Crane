@@ -19,7 +19,7 @@
 <a href="https://www.youtube.com/@blueshell777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@blueshell777" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Tools! 🛠️</h3>
+<h2 align="left">My Tools! 🛠️</h2>
 <p align="left"> 
   
 <h3>Programming & Markup Languages 🤖</h3>
