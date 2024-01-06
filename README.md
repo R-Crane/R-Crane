@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Riley</h1>
-<h3 align="center">I'm building my path to becoming a Software Developer!</h3>
+<h3 align="center">I am currently working on building front-end projects and mobile applications! 📱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-crane&label=Profile%20views&color=0e75b6&style=flat" alt="r-crane" /> </p>
 
-- 🔭 I’m currently working on **building my first iPhone App!**
+<h3>Education & Certifications</h3>
+<strong>Degrees</strong> <br>
+💻    Bachelor of Science in Software Development
+<br>
+<br>
+<strong>CompTIA</strong> <br>
+➕    A+ 
+<br>
+<br>
+<strong>IT Certifications</strong> <br>
+🗄️    ITIL v4
+<br>
+<br>
 
-- 🌱 I’m currently learning **Swift, Unity, APIs**
-
-- 👨‍💻 All of my projects are available at [https://www.rcjaloha.com](https://www.rcjaloha.com)
-
-- 📫 How to reach me? - **rcranejio@gmail.com**
-
-- ⚡ Fun fact **My dogs are my world! 🌎🐶🐶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
