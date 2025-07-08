@@ -10,6 +10,7 @@
 <br>
 <strong>CompTIA</strong> <br>
 ➕    A+ 
+<br>
 ➕    Security+
 <br>
 <br>
