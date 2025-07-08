@@ -10,6 +10,7 @@
 <br>
 <strong>CompTIA</strong> <br>
 ➕    A+ 
+➕    Security+
 <br>
 <br>
 <strong>IT Certifications</strong> <br>
