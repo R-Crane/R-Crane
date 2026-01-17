@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riley</h1>
-<h3 align="center">I am currently working on building Java/Python/React projects and mobile applications! 📱</h3>
+<h3 align="center">I am currently working towards building my portfolio to become a full-fledged software engineer! 📱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-crane&label=Profile%20views&color=0e75b6&style=flat" alt="r-crane" /> </p>
 
