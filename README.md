@@ -9,7 +9,7 @@
 <br>
 <br>
 <strong>IT Certifications Completed ✅</strong> <br>
-🗄️    ITIL v4
+🗄️    ITIL v3
 <br>
 ➕   Comptia A+ 
 <br>
